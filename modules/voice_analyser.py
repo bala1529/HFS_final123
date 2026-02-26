@@ -5,7 +5,7 @@ from typing import Tuple
 
 import json
 import numpy as np
-import torch
+#import torch
 import soundfile as sf
 
 from models.ai_voice_model.feature_extraction_antispoofing import (
