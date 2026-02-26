@@ -6,7 +6,7 @@ requests
 python-whois
 
 numpy==1.26.4
-pandas==2.2.2
+pandas>=2.0,<2.2
 scikit-learn==1.7.2
 joblib==1.4.2
 
@@ -27,4 +27,5 @@ tqdm==4.66.5
 timm==1.0.12
 
 Pillow==10.3.0
+
 pytesseract==0.3.10
